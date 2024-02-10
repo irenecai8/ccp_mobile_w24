@@ -94,3 +94,12 @@ main li{
     color: rgb(203, 66, 189);
     margin-left: 10px;
 }
+
+#skip {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+    transform: translate(-9999px, -9999px);
+    background-color: rgb(199, 199, 199);
+    color: black;
+}
