@@ -1,5 +1,5 @@
 nav {
-    border: 2px solid rgb(203, 66, 189);
+    border: 2px solid rgb(105, 30, 97);
     background-color: rgb(255, 230, 253);
     list-style-type: none;
     text-align: center;
@@ -58,7 +58,8 @@ main li{
     margin-left: 10px;
 }
 .active {
-    color:rgb(203, 66, 189)
+    color:rgb(124, 39, 116);
+    text-decoration: underline;
 }
 .grid-1 {
     display: grid;
